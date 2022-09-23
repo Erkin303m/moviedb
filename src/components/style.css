@@ -1,0 +1,16 @@
+.children{
+    min-height: 90vh;
+}
+.header{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.selecting{
+    width: 100px;
+    border: none;
+    outline: chartreuse;
+    padding: 10px;
+    border-radius: 10px;
+}
